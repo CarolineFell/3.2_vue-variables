@@ -1,4 +1,4 @@
-let messageSuccess = 'Successfully alerted';
-let messageNotice = 'You should continue to upgrade your Vue skills';
+const messageSuccess = 'Successfully alerted';
+const messageNotice = 'You should continue to upgrade your Vue skills';
 
 export { messageSuccess, messageNotice };
